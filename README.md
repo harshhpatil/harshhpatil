@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I’m Harsh 👋
 
-<!--
-**HarshPatil0068/HarshPatil0068** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Engineering student and developer focused on building **practical, working systems** — not half-baked tutorial projects.
 
-Here are some ideas to get you started:
+## Currently Working On
+- Full-stack web apps (MERN)
+- Backend APIs, authentication & databases
+- Linux servers, VPS deployment, and security basics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tools I Use
+- JavaScript, Java, Python, C/C++
+- HTML, CSS, React, Tailwind
+- Node.js, Express
+- MySQL, MongoDB
+- Linux, Nginx, Git, GitHub
+
+## Reach Me
+- Email: patilharsh95hp@gmail.com  
+- GitHub: https://github.com/HarshPatil0068
+- LinkedIn: https://linkedin.com/in/harshpatil0068
