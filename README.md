@@ -1,4 +1,4 @@
-Hi, I’m Harsh 👋  
+Hi, I’m Harsh <img src='https://x.tw93.fun/images/hi.gif' alt='Hi' width="20"/>  
 Engineering student and developer focused on building **practical, working systems** — not half-baked tutorial projects.
 
 **Currently working on**
