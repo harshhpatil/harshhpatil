@@ -4,7 +4,7 @@ Final-year Diploma student in Computer Engineering, focused on becoming a **job-
 I build **real, working backend systems** with authentication, databases, and clean APIs.
 
 ### Current Focus
-- Backend development with **Node.js & Express**
+- Backend development with **Node.js & Express** 
 - REST APIs, authentication (JWT), and role-based access
 - SQL databases (schema design, CRUD, relations)
 - Writing clean, explainable code
