@@ -1,14 +1,9 @@
-# Yoo 👋, Harsh here..!! 
+## Yoo <sub><img src="https://i.imgur.com/u2WLlB8.gif" width="30px"></sub>, Harsh here..!! 
 
-### Learning knows no ends..!!
+### "Learning knows no ends" 🚀
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=harshhpatil&label=Profile views&color=0e75b6&style=flat" alt="harshhpatil" /> 
-</p>
 
----
-
-I'm currently working on **I am currently learning & working on servers, backend & devops**.
+**I'm currently learning & working on servers, backend & devops**.
 
 📫 How to reach me **patilharsh95hp@gmail.com**
 
@@ -55,6 +50,4 @@ I'm currently working on **I am currently learning & working on servers, backend
 
 ---
 
-Fun fact **I think I'm Tenacious.**
-
-👨‍💻 All of my projects are available at **[https://harshhpatil.in/projects](https://harshhpatil.in/projects)**
+Fun fact **I think I'm Tenacious.** All of my projects are available at **[https://harshhpatil.in/projects](https://harshhpatil.in/projects)**
