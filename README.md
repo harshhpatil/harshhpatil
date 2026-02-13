@@ -1,6 +1,6 @@
 ## Yoo <sub><img src="https://i.imgur.com/u2WLlB8.gif" width="30px"></sub>, Harsh here..!! 
 
-### "Learning knows no ends" 🚀
+### "Learning knows no limits" 
 
 **I'm currently learning & working on servers, backend & devops**.
 
