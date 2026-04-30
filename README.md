@@ -7,7 +7,7 @@ harsh@infra:~$ role
 backend engineer | servers | devops
 
 harsh@infra:~$ echo $MOTTO
-Learning knows no ..!!
+Learning knows no limits..!!
 
 harsh@infra:~$ stack --core
 html css tailwind javascript typescript
